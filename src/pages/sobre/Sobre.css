@@ -1,0 +1,314 @@
+#banner {
+  width: 42%;
+  max-width: 600px;
+  height: auto;
+  margin-bottom: 20px;
+}
+#bisneto1{
+  text-align: center;
+  color: orange;
+  font-weight: bold;    
+  font-size: 40px;
+}
+#neto1{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  text-align: justify;
+}
+#bisneto2{
+  display: flex;
+  justify-content: center;
+  max-width: 50pc;
+}
+#neto2{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  text-align: justify;
+}
+#bisneto3{
+  display: flex;
+  justify-content: center;
+  max-width: 50pc;
+  color: orange;
+  font-size: 30px;
+  font-weight: bold;
+
+}
+#bisneto4{
+  display: flex;
+  justify-content: center;
+  max-width: 50pc;
+  font-size: 20px;
+
+}
+#bisneto5{
+  display: flex;
+  justify-content: center;
+  max-width: 50pc;
+  color: orange;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+.centro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 10px;
+}
+
+.accordions {
+  margin: 20px;
+  width: 100%;
+  max-width: 800px;
+}
+
+.accordion {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  width: 100%;
+  font-size: 1rem;
+}
+
+.accordion-header {
+  background-color: #BFBFBF;
+  padding: 10px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: auto;
+  font-size: 1rem;
+  border-radius: 5px;
+}
+
+.accordion-content {
+  padding: 10px;
+  border-top: 1px solid #ddd;
+  background-color: #fff;
+}
+
+.accordion-header span {
+  font-size: 1.5rem;
+}
+#filho32{
+  display: flex;
+  justify-content: center;
+  margin-left: 30px;
+  margin-right: 30px;
+  justify-items: center;
+  margin-top: 80px;
+}
+#imag1{
+  width: 180px;
+  height: 300px;
+  margin-top: 20px;
+}
+#imag2{
+  width: 200px;
+  height: 300px;
+  margin-top: 20px;
+
+}#imag3{
+  width: 300px;
+  height: 300px;
+  margin-top: 20px;
+
+}
+#neto32{
+  width: 350px;
+  height: 480px;
+  justify-content: center;
+  justify-items: center;
+  margin: 10px;
+  border: 2px solid black;
+  text-align: center;
+  border-radius: 10px;
+}
+#neto42{
+  width: 350px;
+  height: 480px;
+  justify-content: center;
+  justify-items: center;
+  margin: 10px;
+  border: 2px solid black;
+  text-align: center;
+  border-radius: 10px;
+
+}
+#neto52{
+  width: 350px;
+  height: 480px;
+  justify-content: center;
+  justify-items: center;
+  margin: 10px;
+  border: 2px solid black;
+  text-align: center;
+  border-radius: 10px;
+}
+#titulo{
+  text-align: center;
+  color: orange;
+  font-weight: bold;    
+  font-size: 40px;
+  margin-top: 80px;
+  margin-bottom: 50px;
+
+}
+.pets{
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  border-radius: 10px;
+
+}
+#filho42{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+#neto62{
+  width: 300px;
+  height: 400px;
+  justify-content: center;
+  justify-items: center;
+  border: 2px solid black;
+  text-align: center;
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+#neto72{
+  width: 300px;
+  height: 400px;
+  justify-content: center;
+  justify-items: center;
+  border: 2px solid black;
+  text-align: center;
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-top: 20px;
+
+}
+#neto82{
+  width: 300px;
+  height: 400px;
+  justify-content: center;
+  justify-items: center;
+  border: 2px solid black;
+  text-align: center;
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-top: 20px;
+
+}
+#neto92{
+  width: 300px;
+  height: 400px;
+  justify-content: center;
+  justify-items: center;
+  border: 2px solid black;
+  text-align: center;
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-top: 20px;
+
+}
+#neto102{
+  width: 300px;
+  height: 400px;
+  justify-content: center;
+  justify-items: center;
+  border: 2px solid black;
+  text-align: center;
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-top: 20px;
+
+}
+#neto112{
+  width: 300px;
+  height: 400px;
+  justify-content: center;
+  justify-items: center;
+  border: 2px solid black;
+  text-align: center;
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-top: 20px;
+
+}
+#neto122{
+  width: 300px;
+  height: 400px;
+  justify-content: center;
+  justify-items: center;
+  border: 2px solid black;
+  text-align: center;
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-top: 20px;
+
+}
+#neto132{
+  width: 300px;
+  height: 400px;
+  justify-content: center;
+  justify-items: center;
+  border: 2px solid black;
+  text-align: center;
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-top: 20px;
+
+}
+#neto142{
+  width: 300px;
+  height: 400px;
+  justify-content: center;
+  justify-items: center;
+  border: 2px solid black;
+  text-align: center;
+  border-radius: 10px;
+  margin-right: 20px;
+  margin-top: 20px;
+
+}
+
+#map-container {
+  width: 100%;
+  height: 400px;
+  max-width: 800px;
+}
+.textos{
+  margin-bottom: 30px;
+}
+
+@media (max-width: 768px) {
+  .accordion {
+    width: 100%;
+  }
+  
+  .accordion-header {
+    font-size: 0.9rem;
+  }
+  
+  #map-container {
+    height: 300px;
+  }
+}
+
+@media (max-width: 480px) {
+  .accordion-header {
+    font-size: 0.8rem;
+  }
+  
+  #map-container {
+    height: 250px;
+  }
+}
